@@ -1,0 +1,24 @@
+<image class="log-item" src="../../image/1.png"></image>
+<view class="test">
+  <view class="itemView"><text class="color">用户名：</text>
+    <input class="input" name="userName"  placeholder="请输入用户名"
+    bindinput ="userNameInput"/>
+  </view>
+</view> 
+<view class="test">
+  <view class="itemView"><text class="color">密    码：</text>
+    <input class="input" password placeholder="请输入密码"
+     bindinput="passWdInput" />
+  </view>
+</view> 
+
+<view>
+  <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="jumpPage1"> 登录 
+  </button>
+</view>
+<view>
+  <button type="warn" size="{{warnSize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="jumpPage"> 注册 
+  </button>
+</view>

@@ -1,0 +1,9 @@
+<!--pages/paihangbang.wxml-->
+<text class="bb">排行榜</text>
+<text class="aa"  space="ensp">排名   玩家ID  玩家名       分数</text>
+<text class="title"   space="ensp">国服第一    {{playerId1}}   {{name1}}       {{score1}}</text>
+<text class="title"   space="ensp">国服第二    {{playerId2}}   {{name2}}       {{score2}}</text>
+<text class="title"   space="ensp">国服第三    {{playerId3}}   {{name3}}       {{score3}}</text>
+<text class="title"   space="ensp">国服第四    {{playerId4}}   {{name4}}       {{score4}}</text>
+<text class="title"   space="ensp">国服第五    {{playerId5}}   {{name5}}       {{score5}}</text>
+<text class="cc">*仅显示前五名</text>

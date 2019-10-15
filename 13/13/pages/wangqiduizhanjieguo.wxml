@@ -1,0 +1,28 @@
+<!--pages/wangqiduizhanjieguo.wxml-->
+<text class="title">往期对战结果查询</text>
+
+<view class="test">
+  <view class="itemView"><text class="color">玩家ID：</text>
+    <input class="input" name="id"  placeholder="请输入玩家ID"
+    bindinput ="idInput"/>
+  </view>
+</view>
+
+<view class="test">
+  <view class="itemView"><text class="color">每页条数：</text>
+    <input class="input" name="id"  placeholder="请输入每页条数"
+    bindinput ="n1Input"/>
+  </view>
+</view>
+
+<view class="test">
+  <view class="itemView"><text class="color">页码：</text>
+    <input class="input" name="id"  placeholder="请输入页码"
+    bindinput ="n2Input"/>
+  </view>
+</view>
+
+<view>
+ <button class='button' bindtap="jumpPage1"> <text class='text'> 查询</text>
+  </button>
+</view>

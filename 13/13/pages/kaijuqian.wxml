@@ -1,0 +1,10 @@
+<!--pages/kaijuqian.wxml-->
+<view>
+   <button class='button' bindtap="jumpPage1"> <text class='text'> 开始匹配</text> 
+  </button>
+</view>
+<view>
+  <button class='button' bindtap="jumpPage2"> <text class='text'>  加入房间 
+  </text> 
+  </button>
+</view>

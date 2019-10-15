@@ -1,0 +1,15 @@
+<!--pages/jiaru.wxml-->
+<view class='aa'>
+<view><text class='dd'>战局ID：</text>{{id}}</view>
+</view>
+
+
+<view class='aa'>
+<view><text class='dd'>得到的牌：</text>{{card}}</view>
+</view>
+
+<view>
+  <button class='button' bindtap="jumpPage"> <text class='text'>出牌</text>
+  </button>
+</view>
+

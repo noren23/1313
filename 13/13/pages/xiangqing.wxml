@@ -1,0 +1,13 @@
+<!--pages/xiangqing.wxml-->
+<text class="title">往期对战结果详细情况</text>
+<view class="test">
+  <view class="itemView"><text class="color">战局ID：</text>
+    <input class="input" name="id"  placeholder="请输入战局ID"
+    bindinput ="idInput"/>
+  </view>
+</view>
+
+<view>
+ <button class='button' bindtap="jumpPage1"> <text class='text'> 查询</text>
+  </button>
+</view>

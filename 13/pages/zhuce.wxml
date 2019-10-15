@@ -1,0 +1,19 @@
+<!--pages/zhuce.wxml-->
+<text   class="a" >      注册   </text>
+<view class= "test1">
+  <view class="itemView"><text class="color">用户名：</text>
+    <input class="input" name="userName" placeholder="请输入用户名"
+      bindinput="userNameInput" />
+  </view>
+</view > 
+<view class="test1">
+  <view class="itemView"><text class="color">密    码：</text>
+    <input class="input" password placeholder="请输入密码"
+     bindinput="passWdInput" />
+  </view>
+</view> 
+
+
+  <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="jumpPage"> 注册 
+  </button>

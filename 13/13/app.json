@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/zhuce",
+    "pages/page1",
+    "pages/paihangbang",
+    "pages/wangqiduizhanjieguo",
+    "pages/xiangqing",
+    "pages/kaijuqian",
+    "pages/kaiqi",
+    "pages/jiaru",
+    "pages/zhucechenggong",
+    "pages/jieguo1",
+    "pages/jieguo2",
+    "pages/fapai",
+    "pages/chupai"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "福建十三水",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,6 @@
+<!--pages/zhucechenggong.wxml-->
+<text  class="a">      注册成功！   </text>
+
+  <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="jumpPage"> 返回登录界面 
+  </button>

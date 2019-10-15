@@ -1,0 +1,16 @@
+<!--pages/jieguo1.wxml-->
+
+<text class="aa"  space="ensp">战局ID    出牌情况    分数   结算时间</text>
+ 
+<view wx:for="{{ab}}" wx:for-item="i">
+
+<view  class="bb" space="ensp">{{id[i]}}      {{card[i]}}     {{score[i]}}     {{st[i]}} </view>
+
+</view>
+
+
+
+
+
+
+

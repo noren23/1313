@@ -1,0 +1,17 @@
+<!--pages/page1.wxml-->
+<view>
+  <button class='button' bindtap="jumpPage"> <text class='text'>开始游戏</text>
+  </button>
+</view>
+<view>
+  <button class='button' bindtap="jumpPage1"> <text class='text'>排行榜</text>
+  </button>
+</view>
+<view>
+  <button class='button'   bindtap="jumpPage2"> <text class='text'>往期对战结果查询</text>
+  </button>
+</view>
+<view>
+  <button class='button'   bindtap="jumpPage3"><text class='text'> 往期对战结果详细情况</text>
+  </button>
+</view>

@@ -1,0 +1,8 @@
+<!--pages/jieguo2.wxml-->
+<text class="aa">战局完成时间：</text>
+<text class="bb">{{timestamp}}</text>
+<text class="aa"  space="ensp">玩家ID      出牌情况          分数</text>
+<text class="title" space="ensp">{{p1}}  {{card1}}  {{score1}}</text>
+<text class="title" space="ensp">{{p2}}  {{card2}}   {{score2}}</text>
+<text class="title" space="ensp">{{p3}}  {{card3}}   {{score3}}</text>
+<text class="title" space="ensp">{{p4}}  {{card4}}   {{score4}}</text>

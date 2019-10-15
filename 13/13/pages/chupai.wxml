@@ -1,0 +1,14 @@
+<!--pages/chupai.wxml-->
+<view class='aa'>
+<text>战局ID：{{id}}</text>
+</view>
+<view class='aa'>
+<text>出牌为：</text>
+</view>
+<view class='aa'>
+<text>A 2 3 4 5 6 7 8 9 10 J Q K</text>
+</view>
+<view>
+  <button class='button' bindtap="jumpPage"> <text class='text'>返回</text>
+  </button>
+</view>

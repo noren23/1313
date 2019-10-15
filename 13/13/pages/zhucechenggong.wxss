@@ -1,0 +1,11 @@
+/* pages/zhucechenggong.wxss */
+button {
+ margin: 50px;
+  margin-top: 100rpx;
+  }
+  .a{
+    display:block;
+  margin-left: 300rpx;
+  margin-top: 20rpx;
+  color: rgba(221, 25, 51, 0.685);
+  }
