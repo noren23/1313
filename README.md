@@ -1,4 +1,5 @@
 # 13water
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b31d08bb01d4a069b9247ec7fc30b9f)](https://www.codacy.com/manual/Ga-697/13water?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ga-697/13water&amp;utm_campaign=Badge_Grade)
 
 ![vison](https://img.shields.io/badge/python-v3.7-blue)
 
@@ -35,3 +36,4 @@ pyinstaller testTk.py
 AI:在pycharm里直接运行即可
 
 UI:使用微信开发者工具，临时ID，打开即可。
+   如果懒得下的话可以找我们真机调试。球球了！
